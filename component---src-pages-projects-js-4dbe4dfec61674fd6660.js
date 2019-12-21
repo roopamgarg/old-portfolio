@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"16l3":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),c=a("+0cL"),r=a("dZ7Z"),o=(a("Ea3V"),a("M50w")),u=a("TJpk");t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(u.Helmet,null,l.a.createElement("meta",{charSet:"utf-8"}),l.a.createElement("title",null,"Roopam Garg | Projects"),l.a.createElement("link",{rel:"canonical",href:o.a+"projects"})),l.a.createElement(r.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-projects-js-4dbe4dfec61674fd6660.js.map
